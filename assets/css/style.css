@@ -7580,7 +7580,8 @@ p {
 .banner-img-two img {
     border-radius: 400px;
     max-width: 500px;
-    height: 500px;
+    width: 100%;
+    max-height: 500px;
     object-fit: cover;
     border: 10px solid #65c9dd;
 }
